@@ -1,0 +1,17 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+a.out
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+Desktop.ini
+
+# 密钥与本地配置
+.env
+*.key
