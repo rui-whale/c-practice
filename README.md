@@ -16,3 +16,4 @@ gcc transpose.c -o transpose
 ```
 
 Windows 下可写 `gcc transpose.c -o transpose.exe`，再运行 `transpose.exe`。
+今天学会了 git status 和 git log
